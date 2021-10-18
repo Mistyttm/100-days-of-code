@@ -4,7 +4,7 @@
 
 **Today's Progress**: I've gone through the basic HTML and HTML5 exercises on FreeCodeCamp, and I've begun the basic CSS. 
 
-**Thoughts** I've been programming on and off for a few years, I'm just doing this as a refresher and to build my skills up stronger
+**Thoughts**: I've been programming on and off for a few years, I'm just doing this as a refresher and to build my skills up stronger
 
 **Link(s) to work**
 1. [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design)
@@ -13,8 +13,16 @@
 
 **Today's Progress**: I completed the basic CSS section of the responsive web design course.
 
-**Thoughts** I knew a bit of this already, but I learned how hexadecimal is worked out, as well as learning about the ``!important`` value (this value forces a CSS element to be displayed over any conflicting assignments). I also learned about the different types of measurement values used in css, I've always used percentages and ``px``, but I learned that ``in`` (inches) and ``cm`` (centimeters) are absolute values that display based on the size of the screen, whilst ``em`` and ``rem`` are relative, and change based on the size of the text.
+**Thoughts**: I knew a bit of this already, but I learned how hexadecimal is worked out, as well as learning about the ``!important`` value (this value forces a CSS element to be displayed over any conflicting assignments). I also learned about the different types of measurement values used in css, I've always used percentages and ``px``, but I learned that ``in`` (inches) and ``cm`` (centimeters) are absolute values that display based on the size of the screen, whilst ``em`` and ``rem`` are relative, and change based on the size of the text.
 
 **Link(s) to work**
 1. [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design)
 
+### Day 3: October 18, Monday
+
+**Today's Progress**:  completed roughly half of the applied visual design section of the responsive web design course
+
+**Thoughts**: My environment was very different for doing today's work, and I was not as productive as I would have liked. I moved a lot slower and didn't really take in the information properly. I still mostly understood the information, but it wasn't as effective as the last two days. This section has so far been more CSS which I am familiar with.
+
+**Link(s) to work**
+1. [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design)
