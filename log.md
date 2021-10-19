@@ -26,3 +26,17 @@
 
 **Link(s) to work**
 1. [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design)
+
+### Day 4: October 19, Tuesday
+
+**Today's Progress**:  begun fixing and adding features to a firefox extension
+
+**Thoughts**: I've been working on this extension with my friend Echo for a few months now, it's a basic word replacer called trigger fixer. we made it so that we could help people block out and replace triggering words with more comfortable words :)
+
+The version on the firefox and chrome stores work, but they are lacking some of the more enhancing features I've been working on, as well as them both having a pretty big bug that causes the replacement to loop infinitely in certain circumstances.
+
+What I did today was work on the light mode CSS and try to get the light/dark mode switcher to work. I think I got the light mode CSS looking pretty nice :)
+
+**Link(s) to work**
+1. [Trigger Fixer - FireFox Version](https://github.com/Mistyttm/trigger-fixer)
+
