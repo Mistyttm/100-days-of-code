@@ -40,3 +40,14 @@ What I did today was work on the light mode CSS and try to get the light/dark mo
 **Link(s) to work**
 1. [Trigger Fixer - FireFox Version](https://github.com/Mistyttm/trigger-fixer)
 
+### Day 5: October 20, Wednesday
+
+**Today's Progress**:  Created a theme switcher for the trigger fixer extension
+
+**Thoughts**: I'm so happy I finally got this feature working! it's been months since it was suggested, and it fully workss!!!!! I'm so happyyyy
+
+**Link(s) to work**
+1. [Trigger Fixer - FireFox Version](https://github.com/Mistyttm/trigger-fixer)
+2. [Firefox Add-on Store](https://addons.mozilla.org/en-US/firefox/addon/trigger-fixer/)
+
+
