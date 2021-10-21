@@ -50,4 +50,14 @@ What I did today was work on the light mode CSS and try to get the light/dark mo
 1. [Trigger Fixer - FireFox Version](https://github.com/Mistyttm/trigger-fixer)
 2. [Firefox Add-on Store](https://addons.mozilla.org/en-US/firefox/addon/trigger-fixer/)
 
+### Day 6: October 21, Thursday
+
+**Today's Progress**:  Studied CSS animation in the responsive web design course. 
+
+**Thoughts**: Today's session was a tiny bit confusing to get my head around. There was a lot of looking at the way elements interact with one another. I think in time I'll get my head atound it, but right now I'm pretty tired. Anyway, what I learned was the way the ``position`` value of CSS works, as well as learning how to use gradients and the ``@keyframes`` method. I begun to learn about bezier curves as well, but that was right before I stopped my hour. I think tomorrow, I'm gonna have to do a quick refresher on the bezier curve as well as CSS animations in general. I should also probably stop doing these so late at night. I'm really tired. 
+
+**Link(s) to work**
+1. [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design)
+
+
 
