@@ -59,5 +59,14 @@ What I did today was work on the light mode CSS and try to get the light/dark mo
 **Link(s) to work**
 1. [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design)
 
+### Day 7: October 22, Friday
+
+**Today's Progress**:  Finished CSS animations and moved onto web design accessibility. 
+
+**Thoughts**: Accessibility is incredibly important in todays world. there are millions of people who require things like screen readers or keyboard controls everyday. So as programmers it's our job to make their online lives easier by providing these accesssibility features to our pages and programs. I learnt about a few HTML elemenets that I didn't know about before, for example: ``<legend>``, ``<main>``, ``<audio>`` and ``taborder``. The4se elements work really well in combination to provide disabled users greater access to the internet. 
+
+**Link(s) to work**
+1. [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design)
+
 
 
