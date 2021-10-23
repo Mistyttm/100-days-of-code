@@ -68,5 +68,12 @@ What I did today was work on the light mode CSS and try to get the light/dark mo
 **Link(s) to work**
 1. [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design)
 
+### Day 8: October 23, Saturday
 
+**Today's Progress**:  Learnt about ``@media``, CSS flex boxes and started learning about CSS grids. 
+
+**Thoughts**: CSS flex is one of those things I could never really wrap my head around. but now seeing it layed out like this, it's really quite simple. The different values just wrap the specified content around its container. Simple really!
+
+**Link(s) to work**
+1. [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design)
 
