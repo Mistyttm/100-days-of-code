@@ -77,3 +77,13 @@ What I did today was work on the light mode CSS and try to get the light/dark mo
 **Link(s) to work**
 1. [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design)
 
+### Day 9: October 24, Sunday
+
+**Today's Progress**:  Completed my first full project to make a website. 
+
+**Thoughts**: This was a real challenge to try and remember all the skills I've learnt over the last few days for this simple website. My memory isn't actually all that good tbh, but I did manage to cobble something together that looks pretty alright
+
+**Link(s) to work**
+1. [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
+2. [Tribute Page](https://codepen.io/mistyttm/full/BadpOOv)
+
