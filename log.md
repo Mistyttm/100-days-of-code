@@ -95,5 +95,5 @@ What I did today was work on the light mode CSS and try to get the light/dark mo
 
 **Link(s) to work**
 1. [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
-2. [Tribute Page](https://codepen.io/mistyttm/full/PoKpqYX)
+2. [Survey Form](https://codepen.io/mistyttm/full/PoKpqYX)
 
