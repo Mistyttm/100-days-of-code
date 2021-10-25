@@ -87,3 +87,13 @@ What I did today was work on the light mode CSS and try to get the light/dark mo
 1. [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page)
 2. [Tribute Page](https://codepen.io/mistyttm/full/BadpOOv)
 
+### Day 10: October 25, Monday
+
+**Today's Progress**:  Completed the second project. 
+
+**Thoughts**: Today was much easier, if a bit tedious. I've always found creating forms to be super tedious. This task required me to make one. so I did, but then since the hour wasn't up I also decided to do some non-required CSS design which I think look pretty okay for a small amount of time actually doing the CSS.
+
+**Link(s) to work**
+1. [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
+2. [Tribute Page](https://codepen.io/mistyttm/full/PoKpqYX)
+
