@@ -97,3 +97,13 @@ What I did today was work on the light mode CSS and try to get the light/dark mo
 1. [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-survey-form)
 2. [Survey Form](https://codepen.io/mistyttm/full/PoKpqYX)
 
+### Day 11: October 26, Tuesday
+
+**Today's Progress**:  Completed the third project. 
+
+**Thoughts**: Okay, imma be honest, I almost missed today's session. I caught myself in time, but I still *almost* missed it. so that was a bit scary tbh, gotta hold myself accountable for this. Anyway, today's task was to create a landing page. I was mostly successful on the CSS front, there are still quite a few kinks, but it satisfies every single requirement to pass the task, so I'm happy :)
+
+**Link(s) to work**
+1. [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
+2. [Survey Form](https://codepen.io/mistyttm/full/GRvmKVV)
+
