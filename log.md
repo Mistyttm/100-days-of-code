@@ -107,3 +107,14 @@ What I did today was work on the light mode CSS and try to get the light/dark mo
 1. [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page)
 2. [Landing Page](https://codepen.io/mistyttm/full/GRvmKVV)
 
+### Day 12: October 27, Wednesday
+
+**Today's Progress**:  Completed the fourth project. 
+
+**Thoughts**: This one took me a really long time, I was having issues passing the tests. Turns out I wasn't spelling things correctly. What a surprise (/s). and then after that I was having a large amount of issues in just getting the content to sit side by side. That was,,,,,,frustrating, to say the least. Today I'll also provide the actual [pen link](https://codepen.io/mistyttm/pen/QWMvYQL) so you can see what I actually did. It was thoroughly frustrating. When I found out I was misspelling stuff, I yelled out, yeah it wasd a whole thing. But that one is over now, took the longest. Onto whatever tomorrow has in store for me.
+
+**Link(s) to work**
+1. [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)
+2. [Technical Documentation](https://codepen.io/mistyttm/full/QWMvYQL)
+
+
