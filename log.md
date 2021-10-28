@@ -117,4 +117,15 @@ What I did today was work on the light mode CSS and try to get the light/dark mo
 1. [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-technical-documentation-page)
 2. [Technical Documentation](https://codepen.io/mistyttm/full/QWMvYQL)
 
+### Day 13: October 28, Thursday
+
+**Today's Progress**:  Completed the fifth project. 
+
+**Thoughts**: I'm so tired today, I am not happy with this one, at all. I have no other thoughts. But I did finish the responsive design thingie
+
+**Link(s) to work**
+1. [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
+2. [Personal Portfolio](https://codepen.io/mistyttm/full/OJjgEmw)
+3. [Certificate](https://www.freecodecamp.org/certification/misty_ttm/responsive-web-design)
+
 
