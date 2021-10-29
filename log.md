@@ -128,4 +128,11 @@ What I did today was work on the light mode CSS and try to get the light/dark mo
 2. [Personal Portfolio](https://codepen.io/mistyttm/full/OJjgEmw)
 3. [Certificate](https://www.freecodecamp.org/certification/misty_ttm/responsive-web-design)
 
+### Day 14: October 29, Friday
 
+**Today's Progress**:  Begun JavaScript Algorithms and Data Structures. 
+
+**Thoughts**: This marks 2 weeks since I began this challenge, I got my first certificate yesterday which was nice. Today I begun learning JS, which is far more 'programmy' than CSS and HTML imo. I did 46 out of the 113 challenges in basic javascript. I reckon I could speed through this one like I did to the responsive web design one too :)
+
+**Link(s) to work**
+1. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#basic-javascript)
