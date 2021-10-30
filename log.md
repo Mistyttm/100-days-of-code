@@ -136,3 +136,12 @@ What I did today was work on the light mode CSS and try to get the light/dark mo
 
 **Link(s) to work**
 1. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#basic-javascript)
+
+### Day 15: October 30, Saturday
+
+**Today's Progress**:  Learnt about functions, comparison and if/else and switch statements. 
+
+**Thoughts**: So today was relatively straight forward. Learnt about how functions with no arguments worked and how functions WITH arguments worked. Also learned about the ``==``, ``===``, ``!=``, ``!==``, ``<``, ``>``, ``<=``, ``>=``, ``&&`` and ``||``. that is ``equivalent``, ``strict equivalent``, ``not equal``, ``strict not equal``, ``less than``, ``greater than``, ``less than or equal to``, ``greater than or equal to``, ``and`` and ``or``. All very important values which I then used in learning If/else statements which I then followed with switch/case statements
+
+**Link(s) to work**
+1. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#basic-javascript)
