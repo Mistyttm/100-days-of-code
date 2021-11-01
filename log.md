@@ -145,3 +145,13 @@ What I did today was work on the light mode CSS and try to get the light/dark mo
 
 **Link(s) to work**
 1. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#basic-javascript)
+
+### Day 16: November 1, Monday
+
+**Today's Progress**:  Learnt about Objects and more complex switch statements. 
+
+**Thoughts**: Hi! I took a mental health break yesterday as you may have noticed (first one of 7 possible owo). But I'm back today :D
+Today was all about JS objects and complex switch statements. Objects are very familiar as I've done a bit of work with JSON before. And it's very helpful to know you can group multiple casees for one response value. I'm back on the grind and I won't be taking another break for 2 weeks, maybe even not at all owo
+
+**Link(s) to work**
+1. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#basic-javascript)
