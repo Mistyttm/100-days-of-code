@@ -155,3 +155,15 @@ Today was all about JS objects and complex switch statements. Objects are very f
 
 **Link(s) to work**
 1. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#basic-javascript)
+2. [counting-cards.txt](https://github.com/Mistyttm/100-days-of-code/files/7459788/counting-cards.txt)
+
+### Day 17: November 2, Tuesday
+
+**Today's Progress**:  Learnt more about JSON and struggled with recurrence and learnt ``for``, ``while`` and ``do...while`` loops. 
+
+**Thoughts**: Today was more JSON functions and also learning about this thing called recurence. The main focus however, was loops, I don't exactly have much more to say about this, although when doing the function challenges, I did seriously struggle to get them to work. Why? I had incorrect capitalisation. that was most infuriating
+
+**Link(s) to work**
+1. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#basic-javascript)
+2. [record-collection.txt](https://github.com/Mistyttm/100-days-of-code/files/7459815/record-collection.txt)
+3. [profile-lookup.txt](https://github.com/Mistyttm/100-days-of-code/files/7459814/profile-lookup.txt)
