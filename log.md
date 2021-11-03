@@ -167,3 +167,12 @@ Today was all about JS objects and complex switch statements. Objects are very f
 1. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#basic-javascript)
 2. [record-collection.txt](https://github.com/Mistyttm/100-days-of-code/files/7459815/record-collection.txt)
 3. [profile-lookup.txt](https://github.com/Mistyttm/100-days-of-code/files/7459814/profile-lookup.txt)
+
+### Day 18: November 3, Wednesday
+
+**Today's Progress**:  Learnt about a different type of recursion and the ``?`` thingie. 
+
+**Thoughts**: The most interesting thing for me today was learning about the ``a ? b : c`` method. I've always seen that used in places but never understood how it worked. now I do tho~! basically it works exactly like an if/else statement, just shorter: ``a`` is the comparison you want to make ``b`` is the code to be executed and ``c`` is the else :))
+
+**Link(s) to work**
+1. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#basic-javascript)
