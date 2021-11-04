@@ -11,4 +11,3 @@
   *  Arrow notation allows for functions that are not going to be reused to be shortened down within a variable
       *  it allows for the ``return`` method to be skipped entirely
       *  eg: ``const i = () => "value";``
-  *  
