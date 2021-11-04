@@ -176,3 +176,12 @@ Today was all about JS objects and complex switch statements. Objects are very f
 
 **Link(s) to work**
 1. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#basic-javascript)
+
+### Day 19: November 4, Thursday
+
+**Today's Progress**:  Started on ES6 
+
+**Thoughts**: I didn't know ES6 was a thing! It's quite interesting some of the things you can do with it. today I mainly learnt about ``Object.freeze()`` and arrow notation. you can check it out in my new [Notes Page](https://github.com/Mistyttm/100-days-of-code/blob/master/notes.md) where I'm gonna start taking notes so that I don't forget what I learn. means I'll get less done but hopefully retain more knowledge.
+
+**Link(s) to work**
+1. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#es6
