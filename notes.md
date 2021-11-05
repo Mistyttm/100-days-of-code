@@ -11,3 +11,16 @@
   *  Arrow notation allows for functions that are not going to be reused to be shortened down within a variable
       *  it allows for the ``return`` method to be skipped entirely
       *  eg: ``const i = () => "value";``
+
+
+### Day 20 5/11/21
+**Notes:**
+  *  arrow notation can also have variables used
+      *  eg: `const myConst = item => item *2;`
+  *  the variables can have default values if nothing is passed through the function
+  *  the rest parameter allows functions to be parsed with any number of arguments (`...`)
+  *  the spread parameter looks the same to the rest parameter but spreads out an array for use in another variable
+  *  ES6 allows for destructuring assignment.
+      *  instead of multiple calls to an object, it can be done in one line
+      *  ``const {name, age} = user`` would produce the name and age of the object ``user``
+  *  within the destructured object, you can assign the values to new variables so that their values can be called later on in the code.
