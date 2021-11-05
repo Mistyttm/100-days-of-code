@@ -185,3 +185,13 @@ Today was all about JS objects and complex switch statements. Objects are very f
 
 **Link(s) to work**
 1. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#es6)
+
+### Day 20: November 5, Friday
+
+**Today's Progress**:  continuedlearning ES6 
+
+**Thoughts**: ES6 is honestly really interesting. I had no idea code could be made this compact! like, seriously, the stuff you can do with ES6 makes life sooo much easier. I kinda wish I'd known a lot of this for some of my previous projects. I probably could honestly go back over them and redo them to make them neater and probably more efficient as well.
+
+**Link(s) to work**
+1. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#es6)
+2. [Notes Page](https://github.com/Mistyttm/100-days-of-code/blob/master/notes.md)
