@@ -24,3 +24,16 @@
       *  instead of multiple calls to an object, it can be done in one line
       *  ``const {name, age} = user`` would produce the name and age of the object ``user``
   *  within the destructured object, you can assign the values to new variables so that their values can be called later on in the code.
+
+
+### Day 21 6/11/21
+**Notes:**
+  *  the destructured objects can also assign variable to nested objects in the same way
+  *  destructured arrays work in a similar way to destructuring objects
+  *  array elements can be reassigned using the rest parameter
+  *  destructuring can also be done when being parsed through a function
+  *  template literals use the backtick character in order to allow for multi line strings that can also contain variable outputs
+      *  useful for iterating through arrays
+  *  ES6 allows for declaring functions without using the ``function()`` keyword
+  *  class syntax allows for the creation of constructer functions
+  *  getters and setters allow for private variables to be manipulated by the user without them having direct access to the internals
