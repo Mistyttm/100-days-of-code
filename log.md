@@ -188,10 +188,21 @@ Today was all about JS objects and complex switch statements. Objects are very f
 
 ### Day 20: November 5, Friday
 
-**Today's Progress**:  continuedlearning ES6 
+**Today's Progress**:  continued learning ES6 
 
 **Thoughts**: ES6 is honestly really interesting. I had no idea code could be made this compact! like, seriously, the stuff you can do with ES6 makes life sooo much easier. I kinda wish I'd known a lot of this for some of my previous projects. I probably could honestly go back over them and redo them to make them neater and probably more efficient as well.
 
 **Link(s) to work**
 1. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#es6)
 2. [Notes Page](https://github.com/Mistyttm/100-days-of-code/blob/master/notes.md)
+
+### Day 21: November 6, Saturday
+
+**Today's Progress**:  Learnt more about destructuring and about `class` 
+
+**Thoughts**: ES6 really does provide some nice neat and efficient ways to code. it's quite nice. I'm honestly really enjoying learning about JS, I know a lot of programmers shit on it and stuff, but it's really fun learning about it :>
+
+**Link(s) to work**
+1. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#es6)
+2. [Notes Page](https://github.com/Mistyttm/100-days-of-code/blob/master/notes.md)
+3. [use-getters-and-setters-to-control-access-to-an-object.txt](https://github.com/Mistyttm/100-days-of-code/files/7490136/use-getters-and-setters-to-control-access-to-an-object.txt)
