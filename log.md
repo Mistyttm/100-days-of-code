@@ -206,3 +206,15 @@ Today was all about JS objects and complex switch statements. Objects are very f
 1. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#es6)
 2. [Notes Page](https://github.com/Mistyttm/100-days-of-code/blob/master/notes.md)
 3. [use-getters-and-setters-to-control-access-to-an-object.txt](https://github.com/Mistyttm/100-days-of-code/files/7490136/use-getters-and-setters-to-control-access-to-an-object.txt)
+
+### Day 22: November 7, Sunday
+
+**Today's Progress**:  learnt mainly about promises and import/export keywords
+
+**Thoughts**: Promises are what's used in order to run asynchronous code where you don't know how long it's going to take. this is extremel;y useful for larger programs. Learning about the import/export keywords is also useful for when I need to get functions from different files and import them :>
+
+Also I saw what I'm doing tomorrow....I'm doing regular expressions...I'm dreading that
+
+**Link(s) to work**
+1. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#es6)
+2. [Notes Page](https://github.com/Mistyttm/100-days-of-code/blob/master/notes.md)
