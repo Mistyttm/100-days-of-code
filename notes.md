@@ -37,3 +37,22 @@
   *  ES6 allows for declaring functions without using the ``function()`` keyword
   *  class syntax allows for the creation of constructer functions
   *  getters and setters allow for private variables to be manipulated by the user without them having direct access to the internals
+
+
+### Day 22 7/11/21
+**Notes:**
+  *  javascript can be directly copmbined with HTML using the `<script></script>` tags
+  *  JS functions can be exported for use in other JS files using the `export` keyword
+      *  `export function() {code}`
+      *  `export { function1, function 2 }`
+  *  the `import` keyword has a similar syntax to the `export` keyword, and allows for exported functions to be imported from files.
+  *  the wildcard character can also be used with the `import` keyword
+  *  `export default` is used for making the fallback value of a file
+  *  importing default functions does not require curly braces and the variable name for the function can be anything
+  *  a promise is used to make a promise to do something asynchronously to the program
+  *  there are three promise states:
+      *  `pending`
+      *  `resolved`
+      *  `rejected`
+  *  `then` is used when an asynchronous process has completed and you want to do something with the result
+  *  `catch` is used when a promise outputs a `reject` has the same syntax to `then`
