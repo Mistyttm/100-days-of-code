@@ -218,3 +218,13 @@ Also I saw what I'm doing tomorrow....I'm doing regular expressions...I'm dreadi
 **Link(s) to work**
 1. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#es6)
 2. [Notes Page](https://github.com/Mistyttm/100-days-of-code/blob/master/notes.md)
+
+### Day 23: November 8, Monday
+
+**Today's Progress**:  beginnings of regex
+
+**Thoughts**: y'know, it seems like its not as hard as I thought, it's just searching through strings with special commands. All I've heard about Regex made it sound super scary and complex, but this don't seem so bad :3
+
+**Link(s) to work**
+1. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#regular-expressions)
+2. [Notes Page](https://github.com/Mistyttm/100-days-of-code/blob/master/notes.md)
