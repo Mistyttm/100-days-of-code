@@ -56,3 +56,24 @@
       *  `rejected`
   *  `then` is used when an asynchronous process has completed and you want to do something with the result
   *  `catch` is used when a promise outputs a `reject` has the same syntax to `then`
+
+
+### Day 23 8/11/21
+**Notes:**
+  *  regular expressions are used to find secions of strings
+  *  `.test()` returns a true or false
+  *  regex is case sensitive
+  *  the OR (`|`) operator can be used to find multiple strings
+  *  adding `i` after the regex forces it to ignore case
+  *  `.match()` can be used to return the exact string
+  *  `g` is used to loop through the string to find all instances of the regex
+  *  the wildcard character `.` is used to match anything in the string
+  *  character classes, `[ ]`, allow for finding of specific characters within strings, like vowels
+  *  the hyphen character `-` can be used to find a range of characters
+      *  `[a-e]`
+      *  works for numbers as well
+      *  can be chained
+          *  `[h-s2-6]`
+  *  a carrat can be placed before the character set to make it a negated character set
+      *  `[^aeiou]`
+  *  `+` allows for searching of multiple instances of a character
