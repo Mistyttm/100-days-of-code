@@ -228,3 +228,14 @@ Also I saw what I'm doing tomorrow....I'm doing regular expressions...I'm dreadi
 **Link(s) to work**
 1. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#regular-expressions)
 2. [Notes Page](https://github.com/Mistyttm/100-days-of-code/blob/master/notes.md)
+
+### Day 24: November 9, Tuesday
+
+**Today's Progress**:  Continuation of learning regex
+
+**Thoughts**: Today was learning mainly a bunch of shorthand commands. there honestly wasn't too much of interest today, just shorthand :/
+
+**Link(s) to work**
+1. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#regular-expressions)
+2. [Notes Page](https://github.com/Mistyttm/100-days-of-code/blob/master/notes.md)
+3. [restrict-possible-usernames.txt](https://github.com/Mistyttm/100-days-of-code/files/7504124/restrict-possible-usernames.txt)
