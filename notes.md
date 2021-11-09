@@ -77,3 +77,18 @@
   *  a carrat can be placed before the character set to make it a negated character set
       *  `[^aeiou]`
   *  `+` allows for searching of multiple instances of a character
+
+
+### Day 24 9/11/21
+**Notes:**
+  *  the asterisk `*` can be used to find characters matching 0 or more
+  *  `?` can be used to force the regex to use lazy matching
+  *  `^` can also be used to find a pattern at the beginning of a string
+  *  `$` is used in a similar way, but instead of the front of a string, it searches the end of a string
+  *  `\w` is shorthand for `[A-Za-z0-9_]`
+  *  `\W` is equivalent to `[^A-Za-z0-9_]`
+  *  `\d` searches for only numerical characters (`[0-9]`)
+  *  `\D` searches for everything that isn't a numerical character (`[^0-9]`)
+  *  `\s` is used to find all types of white space
+  *  `\S\` is used to find everything except white space
+  *  curly braces can be used to specify a range of characters
