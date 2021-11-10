@@ -92,3 +92,12 @@
   *  `\s` is used to find all types of white space
   *  `\S\` is used to find everything except white space
   *  curly braces can be used to specify a range of characters
+
+
+### Day 25 10/11/21
+**Notes:**
+  *  Lookaheads are used to check if theres a pattern further along in a string
+      *  `(?=...)`
+      *  `(!?=...)`
+  *  `(|)` is used to search for subset strings
+  *  `.replace()` is used to search a string for a word to then replace it
