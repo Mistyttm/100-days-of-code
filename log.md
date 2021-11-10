@@ -239,3 +239,13 @@ Also I saw what I'm doing tomorrow....I'm doing regular expressions...I'm dreadi
 1. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#regular-expressions)
 2. [Notes Page](https://github.com/Mistyttm/100-days-of-code/blob/master/notes.md)
 3. [restrict-possible-usernames.txt](https://github.com/Mistyttm/100-days-of-code/files/7504124/restrict-possible-usernames.txt)
+
+### Day 25: November 10, Wednesday
+
+**Today's Progress**:  Finished Regex
+
+**Thoughts**: Okay. I concede. Regex is awful and I hate it and I never want to touch it again but I can tell I'm gonna have to some day. Y'know, I may as well just use stack exchange for regex in the future and just online guides. Cause this is just way too hard to even begin to understand and I hate it and it's awful >:(
+
+**Link(s) to work**
+1. [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#regular-expressions)
+2. [Notes Page](https://github.com/Mistyttm/100-days-of-code/blob/master/notes.md)
